@@ -19,9 +19,7 @@ cybersecurity-training-labs/
 ├── Capstone-Project/
 │   └── Comprehensive-Security-Assessment.docx
 ├── Network-Analysis-Labs/
-│   └── Wireshark-DNS-Analysis-Lab.html
-└── Firewall-Configuration-Lab/
-    └── Firewall-Lab.html
+   └── Wireshark-DNS-Analysis-Lab.html
 ```
 
 ## 🔍 Project Descriptions
@@ -106,31 +104,3 @@ cybersecurity-training-labs/
   - **Threat Detection:** Identification of Domain Generation Algorithms (DGA), DNS tunneling, and fast-flux domains
   - **Wireshark Mastery:** Advanced filtering techniques (`dns.qry.type == 1`, `dns.flags.response == 0`)
   - **Network Forensics:** Timestamp correlation, traffic pattern analysis, and evidence documentation
-
-### Firewall Configuration Interactive Lab
-**File:** `Firewall Lab.html`
-
-A comprehensive interactive training environment for learning firewall configuration and network security principles.
-
-**Features:**
-- Interactive terminal for practicing firewall commands
-- Visual rule builder with real-time syntax generation
-- Support for multiple firewall types (iptables, UFW, Cisco ASA)
-- Hands-on scenarios and practical exercises
-- Progress tracking and scoring system
-- Enterprise firewall concepts and zone-based security
-
-**Learning Objectives:**
-- Master firewall rule creation and management
-- Understand packet filtering and stateful inspection
-- Configure enterprise-grade firewall systems
-- Implement network security best practices
-- Troubleshoot common firewall issues
-
-**Topics Covered:**
-- Firewall fundamentals and OSI model placement
-- Linux firewall management (iptables, UFW)
-- Enterprise firewall configuration (Cisco ASA)
-- Advanced features (NAT, QoS, VPN pass-through)
-- Troubleshooting and performance optimization
-- Real-world scenarios and assessments
