@@ -19,7 +19,7 @@ cybersecurity-training-labs/
 ├── Capstone-Project/
 │   └── Comprehensive-Security-Assessment.docx
 ├── Network-Analysis-Labs/
-│   └── Wireshark-DNS-Analysis-Lab.html
+│   └── Victor Obiora-Wireshark-DNS-Analysis-Lab.html
 └── Firewall-Configuration-Lab/
     └── Firewall-Lab.html
 ```
