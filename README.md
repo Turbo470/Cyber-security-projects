@@ -7,6 +7,7 @@ This repository contains comprehensive cybersecurity coursework and projects dem
 ## 📁 Repository Structure
 
 ```
+cybersecurity-training-labs/
 ├── NIST-Framework-Analysis/
 │   ├── Twitter-Breach-NIST-Analysis.docx
 │   └── Risk-Assessment-Report.docx
@@ -17,8 +18,10 @@ This repository contains comprehensive cybersecurity coursework and projects dem
 │   └── Phishing-Email-Analysis.docx
 ├── Capstone-Project/
 │   └── Comprehensive-Security-Assessment.docx
-└── Network-Analysis-Labs/
-    └── Wireshark-DNS-Analysis-Lab.html
+├── Network-Analysis-Labs/
+│   └── Wireshark-DNS-Analysis-Lab.html
+└── Firewall-Configuration-Lab/
+    └── Firewall-Lab.html
 ```
 
 ## 🔍 Project Descriptions
